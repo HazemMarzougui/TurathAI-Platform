@@ -96,5 +96,5 @@ CI/CD ready with proper build pipelines
 ## 🙋‍♂️ Author
 
 **Hazem Marzougui**  
-[LinkedIn](https://www.linkedin.com/in/hazem-marzougui-17500a247/)
+[LinkedIn](https://www.linkedin.com/in/hazem-marzougui-17500a247/) 
 
